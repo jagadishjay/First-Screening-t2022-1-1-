@@ -10,9 +10,9 @@ class Calculator:
 
     def divide(self, a, b):
         return a/b
-#create a calculator object
+
 my_cl = Calculator()
-        #If not then ask fo the input and call appropiate methods        
+                
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 ch=input("Enter operator: ")        
